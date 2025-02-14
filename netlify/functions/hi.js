@@ -1,7 +1,7 @@
 export default async (req, context) => {
-  return new Response("Hello, world!");
-};
+  return new Response("Hello, world!")
+}
 
 export const config = {
-    path: ["/", "/cats", "/dogs"]
-};
+    path: ["/"]
+}

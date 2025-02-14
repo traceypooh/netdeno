@@ -1,7 +1,7 @@
 [build]
   publish = "public"
 
-[[functions]]
-  path = "/"
-  function = "hi"
+#[[functions]]
+#  path = "/"
+#  function = "hi"
   
